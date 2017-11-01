@@ -4,7 +4,7 @@
 <head>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Página Inicial</title>
+	<title>SSWANE | Página Inicial</title>
 	<link rel="icon" href="images/logo.png"">
 	<meta name="keywords" content="" />	
 	<meta name="description" content="" />
