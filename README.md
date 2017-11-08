@@ -1,1 +1,2 @@
 # swane
+O Sistema Auxiliar para Novos Estudantes, esta sendo criado para dar suporte os alunos que ingressarem no primeiro período do curso de informática do IFRN-Ceará Mirim. Com o objetivo de fazer com que eles tenham uma adaptação logo após a confirmação da matricula, sendo aasim eles poderão ter um contato com antecedência sobre os conteudos de todas as disciplinas do curso, contidos em sua ementa.
