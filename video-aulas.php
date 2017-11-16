@@ -49,6 +49,11 @@
 					<iframe width="220" height="120" src="https://www.youtube.com/embed/uFvcQo-9_wI" frameborder="0" allowfullscreen></iframe>
 					<div class="title">
 						<h2><b>Vídeo 01</b></h2>
+						<form name="formulario" onsubmit="return validarFormulario();">
+							<input type="checkbox" name="meuchekbox" onclick="document.getElementById('info').innerHTML = 'Vídeo Vizualizado';"/>
+						</form>
+						</br>
+						<div id="info"></div>
 					</div>
 			</div>
 			
@@ -56,6 +61,11 @@
 					<iframe width="220" height="120" src="https://www.youtube.com/embed/8Gdy5kDfcIM" frameborder="0" allowfullscreen></iframe>
 					<div class="title">
 						<h2><b>Vídeo 02</b></h2>
+						<form name="formulario" onsubmit="return validarFormulario();">
+							<input type="checkbox" name="meuchekbox" onclick="document.getElementById('info2').innerHTML = 'Vídeo Vizualizado';"/>
+						</form>
+						</br>
+						<div id="info2"></div>
 					</div>
 			</div>
 			
@@ -63,14 +73,23 @@
 					<iframe width="220" height="120" src="https://www.youtube.com/embed/xI9qujrvqS8" frameborder="0" allowfullscreen></iframe>
 					<div class="title">
 						<h2><b>Vídeo 03</b></h2>
+						<form name="formulario" onsubmit="return validarFormulario();">
+							<input type="checkbox" name="meuchekbox" onclick="document.getElementById('info3').innerHTML = 'Vídeo Vizualizado';"/>
+						</form>
+						</br>
+						<div id="info3"></div>
 					</div>
-				
 			</div>
 			
 			<div class="column4">
 					<iframe width="220" height="120" src="https://www.youtube.com/embed/QR-VRBjI67k" frameborder="0" allowfullscreen></iframe>
 					<div class="title">
 						<h2><b>Vídeo 04</b></h2>
+						<form name="formulario" onsubmit="return validarFormulario();">
+							<input type="checkbox" name="meuchekbox" onclick="document.getElementById('info4').innerHTML = 'Vídeo Vizualizado';"/>
+						</form>
+						</br>
+						<div id="info4"></div>
 					</div>
 			</div>
 		</div>
@@ -81,6 +100,11 @@
 					<iframe width="220" height="120" src="https://www.youtube.com/embed/pWajTAu6s5k" frameborder="0" allowfullscreen></iframe>
 					<div class="title">
 						<h2><b>Vídeo 05</b></h2>
+						<form name="formulario" onsubmit="return validarFormulario();">
+							<input type="checkbox" name="meuchekbox" onclick="document.getElementById('info5').innerHTML = 'Vídeo Vizualizado';"/>
+						</form>
+						</br>
+						<div id="info5"></div>
 					</div>
 			</div>
 			
@@ -88,6 +112,11 @@
 					<iframe width="220" height="120" src="https://www.youtube.com/embed/LGkk_2a1n4Y" frameborder="0" allowfullscreen></iframe>
 					<div class="title">
 						<h2><b>Vídeo 06</b></h2>
+						<form name="formulario" onsubmit="return validarFormulario();">
+							<input type="checkbox" name="meuchekbox" onclick="document.getElementById('info6').innerHTML = 'Vídeo Vizualizado';"/>
+						</form>
+						</br>
+						<div id="info6"></div>
 					</div>
 			</div>
 		</div>
