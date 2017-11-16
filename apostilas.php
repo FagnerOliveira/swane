@@ -44,28 +44,28 @@
 	<div id="featured-wrapper">
 		<div id="featured" class="container">
 		
-			<a href><div class="column1"><img src="images/apostila.png"/>
+			<a href="Apostila 01.pdf" target="_blank"><div class="column1"><img src="images/apostila.png"/>
 				<div class="title">
 					<h2><b>Apostila 01</b></h2>
 				</div>
 			</a>
 				</div>
 			
-			<a href><div class="column2"><img src="images/apostila.png"/>
+			<a href="Apostila 01.pdf" target="_blank"><div class="column2"><img src="images/apostila.png"/>
 				<div class="title">
 					<h2><b>Apostila 02</b></h2>
 				</div>
 			</a>
 				</div>
 			
-			<a href><div class="column3"><img src="images/apostila.png"/>
+			<a href="Apostila 01.pdf" target="_blank"><div class="column3"><img src="images/apostila.png"/>
 				<div class="title">
 					<h2><b>Apostila 03</b></h2>
 				</div>
 			</a>
 				</div>
 			
-			<a href><div class="column4"><img src="images/apostila.png"/>
+			<a href="Apostila 01.pdf" target="_blank"><div class="column4"><img src="images/apostila.png"/>
 				<div class="title">
 					<h2><b>Apostila 04</b></h2>
 				</div>
