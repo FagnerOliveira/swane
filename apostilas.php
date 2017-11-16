@@ -43,34 +43,38 @@
 <div id="wrapper">
 	<div id="featured-wrapper">
 		<div id="featured" class="container">
-		
-			<a href="Apostila 01.pdf" target="_blank"><div class="column1"><img src="images/apostila.png"/>
-				<div class="title">
-					<h2><b>Apostila 01</b></h2>
-				</div>
-			</a>
-				</div>
+						    
+			<div class="column1">
+				<a href="Apostila 01.pdf" target="_blank"><img src="images/apostila.png"/>
+					<div class="title">
+						<h2><b>Apostila 01</b></h2>
+					</div>
+				</a>
+			</div>
 			
-			<a href="Apostila 01.pdf" target="_blank"><div class="column2"><img src="images/apostila.png"/>
-				<div class="title">
-					<h2><b>Apostila 02</b></h2>
-				</div>
-			</a>
-				</div>
+			<div class="column2">			  
+				<a href="Apostila 01.pdf" target="_blank"><img src="images/apostila.png"/>
+					<div class="title">
+						<h2><b>Apostila 02</b></h2>
+					</div>
+				</a>
+			</div>
 			
-			<a href="Apostila 01.pdf" target="_blank"><div class="column3"><img src="images/apostila.png"/>
-				<div class="title">
-					<h2><b>Apostila 03</b></h2>
-				</div>
-			</a>
-				</div>
+			<div class="column3">
+				<a href="Apostila 01.pdf" target="_blank"><img src="images/apostila.png"/>
+					<div class="title">
+						<h2><b>Apostila 03</b></h2>
+					</div>
+				</a>
+			</div>
 			
-			<a href="Apostila 01.pdf" target="_blank"><div class="column4"><img src="images/apostila.png"/>
-				<div class="title">
-					<h2><b>Apostila 04</b></h2>
-				</div>
-			</a>
-				</div>
+			<div class="column4">
+				<a href="Apostila 01.pdf" target="_blank"><img src="images/apostila.png"/>
+					<div class="title">
+						<h2><b>Apostila 04</b></h2>
+					</div>
+				</a>
+			</div>
 		</div>	
 	</div>	
 </div>
